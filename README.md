@@ -25,7 +25,7 @@ https://github.com/mayank2393/Kidney-Disease-Classification
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n kidney python=3.11 -y
+conda create -n kidney python=3.8 -y
 ```
 
 ```bash
