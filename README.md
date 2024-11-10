@@ -89,7 +89,7 @@ $env:MLFLOW_TRACKING_USERNAME = mayank2393
 
 $env:MLFLOW_TRACKING_PASSWORD = decd1bff44b774a7f18d6d0058cf555d97ac87f9
 
-```
+``` -->
 
 
 ### DVC cmd
@@ -112,7 +112,7 @@ DVC
 
  - Its very lite weight for POC only
  - lite weight expriements tracker
- - It can perform Orchestration (Creating Pipelines) -->
+ - It can perform Orchestration (Creating Pipelines)
 
 
 
